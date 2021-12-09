@@ -1,0 +1,1 @@
+# opencv_angular_velocity_estimator
